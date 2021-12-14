@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="output_string">The Fibonacci number for the number at index %1$d is %2$d.</string>
+    <string name="int_error_string">Please enter an integer!</string>
+    <string name="negative_error_string">Please enter a non-negative integer!</string>
+    <string name="overflow_error_string">The integer overflow! Try smaller number.</string>
+</resources>
